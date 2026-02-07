@@ -21,30 +21,30 @@ You should expect each chapter or page to provide you with a strong understandin
 A reader who completes the walkthrough should be able to:
 
 - Read and understand commonly-used TypeScript syntax and patterns
-- - Explain the effects of important compiler options
-  - - Correctly predict type system behavior in most cases
+- Explain the effects of important compiler options
+- Correctly predict type system behavior in most cases
+
+### Reference Files
+
+The reference section below the handbook in the navigation is built to provide a richer understanding of how a particular part of TypeScript works. You can read it top-to-bottom, but each section aims to provide a deeper explanation of a single concept - meaning there is no aim for continuity.
+
+## Non-Goals
+
+The Handbook is also intended to be a concise document that can be comfortably read in a few hours. Certain topics won't be covered in order to keep things short.
    
-    - ### Reference Files
+Specifically, the Handbook does not fully introduce core JavaScript basics like functions, classes, and closures. Where appropriate, we'll include links to background reading that you can use to read up on those concepts.
+
+The Handbook also isn't intended to be a replacement for a language specification. In some cases, edge cases or formal descriptions of behavior will be skipped in favor of high-level, easier-to-understand explanations.
    
-    - The reference section below the handbook in the navigation is built to provide a richer understanding of how a particular part of TypeScript works. You can read it top-to-bottom, but each section aims to provide a deeper explanation of a single concept - meaning there is no aim for continuity.
+Finally, the Handbook won't cover how TypeScript interacts with other tools, except where necessary. Topics like how to configure TypeScript with webpack, rollup, parcel, react, babel, closure, lerna, rush, bazel, preact, vue, angular, svelte, jquery, yarn, or npm are out of scope.
    
-    - ## Non-Goals
+## Get Started
    
-    - The Handbook is also intended to be a concise document that can be comfortably read in a few hours. Certain topics won't be covered in order to keep things short.
+Before getting started with The Basics, we recommend reading one of the following introductory pages:
    
-    - Specifically, the Handbook does not fully introduce core JavaScript basics like functions, classes, and closures. Where appropriate, we'll include links to background reading that you can use to read up on those concepts.
-   
-    - The Handbook also isn't intended to be a replacement for a language specification. In some cases, edge cases or formal descriptions of behavior will be skipped in favor of high-level, easier-to-understand explanations.
-   
-    - Finally, the Handbook won't cover how TypeScript interacts with other tools, except where necessary. Topics like how to configure TypeScript with webpack, rollup, parcel, react, babel, closure, lerna, rush, bazel, preact, vue, angular, svelte, jquery, yarn, or npm are out of scope.
-   
-    - ## Get Started
-   
-    - Before getting started with The Basics, we recommend reading one of the following introductory pages:
-   
-    - - TypeScript for the New Programmer
-      - - TypeScript for JavaScript Programmers
-        - - TypeScript for Java/C# Programmers
-          - - TypeScript for Functional Programmers
-           
-            - Otherwise, jump to The Basics.
+- TypeScript for the New Programmer
+- TypeScript for JavaScript Programmers
+- TypeScript for Java/C# Programmers
+- TypeScript for Functional Programmers
+
+Otherwise, jump to The Basics.
