@@ -1,19 +1,3 @@
-```
-     ┌────────────────────────────────────┐
-     │                                    │
-     │        ████████╗███████╗           │
-     │        ╚══██╔══╝██╔════╝           │
-     │           ██║   ███████╗           │
-     │           ██║   ╚════██║           │
-     │           ██║   ███████║           │
-     │           ╚═╝   ╚══════╝           │
-     │                                    │
-     │          S K I L L  F O R          │
-     │        C L A U D E  C O D E        │
-     │                                    │
-     └────────────────────────────────────┘
-```
-
 # TypeLess - TypeScript Skill for Claude Code
 
 This [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) gives Claude with complete TypeScript knowledge as searchable reference material.
